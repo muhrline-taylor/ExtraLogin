@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+}
+
+.landing {
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+}
+
+.landingHeader {
+  background-color: gray;
+  height: 10%;
+  width: 100%;
+}
