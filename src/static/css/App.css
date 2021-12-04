@@ -5,11 +5,15 @@
 .landing {
   height: 100vh;
   width: 100vw;
-  background-color: black;
 }
 
 .landingHeader {
   background-color: gray;
   height: 10%;
+  width: 100%;
+}
+
+.header {
+  height: 100%;
   width: 100%;
 }
